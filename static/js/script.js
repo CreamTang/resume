@@ -1,7 +1,4 @@
-<!--  $(document).ready(function($){
-    $("*").removeAttr('contenteditable');        
-})
- -->
+
 
   // First, checks if it isn't implemented yet.
 if (!String.prototype.format) {
