@@ -48,7 +48,7 @@ span {
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin: 0; 
-    padding:0;
+    padding:3;
 }
 
 h1, h2, h3, h4, h5 {
